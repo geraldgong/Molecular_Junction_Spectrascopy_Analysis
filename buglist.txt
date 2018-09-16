@@ -1,0 +1,4 @@
+1. on lab computer, after refresh plot can't display, only till previous position
+	but on laptop normal
+ --- solution 1: add drawnow()
+		 update handles.data = data in refresh_Callback 
