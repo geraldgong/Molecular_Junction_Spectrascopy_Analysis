@@ -1,5 +1,7 @@
 # MJS_software
-Raman Spectra/I-V/I-d analysis, programmed with MATLAB GUI
+Molecular Junction Spectroscopy
+
+Raman Spectra/I-V/I-d analysis, programmed with MATLAB GUI (MJS.m)
 
 - 1st panel: 
   check data according to date, automatically substract baseline (RCF.m)
