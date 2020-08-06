@@ -8,7 +8,7 @@ Raman Spectra/I-V/I-d analysis, programmed with MATLAB GUI (MJS.m)
 ![alt text](https://github.com/geraldgong/MJS_software/blob/master/ScreenShot/MJS_sp.jpg)
 -------------------------------------------------------------------------------------------------------------------------
 - 2nd panel:
-  identify I-V/I-d curves by there file name
+  identify I-V/I-d curves by their filename
 ![alt text](https://github.com/geraldgong/MJS_software/blob/master/ScreenShot/MJS_iv.jpg)
 -------------------------------------------------------------------------------------------------------------------------
 - 3rd panel:
